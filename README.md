@@ -1,17 +1,21 @@
-# 👉 1500+ Developer Portfolio Examples
+# 🏆 1500+ Developer Portfolio Examples for Inspiration
 
-This repo can serve as inspiration for your portfolio!
+### Hi there, I'm <a href="https://malaybhunia.github.io/Data_Analyst/" target="_blank"><b>Malay Bhunia</b></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"><br> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3100&pause=800&color=FF6A00&vCenter=true&width=500&lines=B.Tech+CSE+Student+%7C+Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Time+Series+Analysis;Building+Real-World+Analytics+Projects;Open+to+Entry-Level+Data+Analytics+Roles" /><br> <a href="https://www.linkedin.com/in/malay-bhunia-14ab712a6/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="27" height="20"/></a> [![Portfolio](https://img.shields.io/badge/Portfolio-034299?logo=google-chrome&logoColor=white&width="140")](https://malaybhunia-ds.netlify.app/) [![Email.com](https://img.shields.io/badge/Email-CD3004?logo=gmail&logoColor=white&height="90")](mailto:mbhunia098@gmail.com) [![Naukri.com](https://img.shields.io/badge/Naukri.com-06789D?logo=Naukri&logoColor=white&height="90")](https://www.naukri.com/mnjuser/profile?id=&altresid) [![Leetcode](https://img.shields.io/badge/Leetcode-96740D?logo=leetcode&logoColor=white&height="90")](https://leetcode.com/u/Malay2200/) [![Facebook](https://img.shields.io/badge/Facebook-6127F5?logo=Facebook&logoColor=white&height="90")](https://www.facebook.com/profile.php?id=100065094543831) <a href="https://x.com/mbhunia098" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="27" height="23"></a>
 
-[Developer Portfolios Website](https://6e87v.hatchboxapp.com)
+### Happy to see you here! 
+I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**.
 
-## Current Portfolio Count: 1575
+---
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
+## 🌐 This Repositories can serve as inspiration for your portfolio!
+### 📂 Current Portfolio Count: 1575
+
+*👉 Click Here to Explore All Portfolios:* [View Portfolio Collection](https://6e87v.hatchboxapp.com)<br>
+*👉 Jump to:* [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
 | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 [Random Portfolio](https://s111ew.github.io/random-button-redirector)
 
----
 
 ## A
 
