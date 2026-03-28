@@ -3,12 +3,13 @@
 ### Happy to see you here! 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**.
 
----
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="6"/>
 
-# 🏆 1500+ Developer Portfolio Examples for Inspiration
+
+# 🚀 1500+ Developer Portfolio Examples for Inspiration
 This repository is a **curated collection of 1500+ developer portfolios** to help you get inspiration for building your own portfolio website.
 
-**📂 Current Portfolio Count: 1575** <br>
+**👉 Current Portfolio Count: 1575** <br>
 **👉 Click Here to Explore All Portfolios:** [View Portfolio Collection](https://6e87v.hatchboxapp.com)<br>
 **👉 Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
