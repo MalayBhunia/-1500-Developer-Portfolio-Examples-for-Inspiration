@@ -3,7 +3,7 @@
 ### Happy to see you here! 
 I’m an **aspiring Data Analyst** passionate about turning raw data into clear, actionable insights by building interactive dashboards and uncovering meaningful trends; using SQL, Python, Excel, and Power BI, I bridge the gap between complex datasets and practical business solutions — **explore my repositories below to see these skills in action**.
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="6"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="5"/>
 
 
 # 🚀 1500+ Developer Portfolio Examples for Inspiration
